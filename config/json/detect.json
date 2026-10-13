@@ -1,0 +1,13 @@
+{
+  "path": {
+    "xml": "/home/w/Vision_Code/config/openvino/Katrin.xml",
+    "bin": "/home/w/Vision_Code/config/openvino/Katrin.bin",
+    "device": "CPU"
+  },
+  "openvino": {
+    "width": 640,
+    "height": 384,
+    "score_threshold": 0.5,
+    "nms_threshold": 0.25
+  }
+}
